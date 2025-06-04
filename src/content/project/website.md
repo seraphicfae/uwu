@@ -2,7 +2,7 @@
 title: 'Website'
 description: 'Where you are right now!'
 pubDate: 'May 23 2025'
-heroImage: '/uwu/assets/website-hero.png'
+heroImage: '/assets/website-hero.png'
 ---
 
 #### Well, you're on it!

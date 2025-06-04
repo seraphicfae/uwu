@@ -6,6 +6,6 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://rott1ngc0rpse.github.io',
-	base: '/uwu',
+	base: '/',
 	integrations: [mdx(), sitemap()],
 });

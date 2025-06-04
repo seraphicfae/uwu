@@ -2,7 +2,7 @@
 title: 'Dotfiles'
 description: 'No place like ~'
 pubDate: 'May 23 2025'
-heroImage: '/uwu/assets/dotfiles-hero.png'
+heroImage: '/assets/dotfiles-hero.png'
 ---
 
 #### Dotfiles for Arch Linux + Hyprland
